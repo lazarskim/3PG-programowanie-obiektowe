@@ -1,0 +1,35 @@
+{
+    // Użyj funkcji IntelliSense, aby uzyskać informacje o możliwych atrybutach.
+    // Najedź kursorem, aby wyświetlić opisy istniejących atrybutów.
+    // Aby uzyskać więcej informacji, odwiedź stronę: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dodawanie",
+            "request": "launch",
+            "mainClass": "Projekt2.Dodawanie",
+            "projectName": "projekt2_33291342"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polaczenie",
+            "request": "launch",
+            "mainClass": "Projekt2.Polaczenie",
+            "projectName": "projekt2_33291342"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tworzenie",
+            "request": "launch",
+            "mainClass": "Projekt2.Tworzenie",
+            "projectName": "projekt2_33291342"
+        }
+    ]
+}
