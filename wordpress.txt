@@ -1,0 +1,9 @@
+Wdrożenie templatki:
+index.php
+function.php
+style.css
+content.php
+template-parts/format-post
+footer.php
+header.php
+template/homepage.php;contact.php;about.php

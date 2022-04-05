@@ -1,0 +1,8 @@
+Dokumentacja templatki do wdorożenia w wordpress 
+index.html
+shop.single.html
+shop.html
+conctact.html
+assets/css
+assets/js
+assets/img
